@@ -17,3 +17,10 @@ If you find our paper useful in your research, please consider citing:
     year={2025}
   }
 ```
+
+## Environment
+```
+  git clone --recursive https://github.com/zjumsj/GaussianBlendshapes.git
+  conda env create --file environment.yml
+  conda activate toonifygb
+```
