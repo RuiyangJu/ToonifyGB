@@ -28,6 +28,9 @@ If you find our paper useful in your research, please consider citing:
 ```
 
 ## Datset
+<p align="center">
+  <img src="img/dataset.png" width="480" title="details">
+</p>
 ### Original Video 
 * Our original videos (real head) are from [INSTA](https://github.com/Zielon/INSTA). You can access the links to download them.
 
