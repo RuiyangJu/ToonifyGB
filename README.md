@@ -32,6 +32,7 @@ If you find our paper useful in your research, please consider citing:
 * Our original videos (real head) are from [INSTA](https://github.com/Zielon/INSTA). You can access the links to download them.
 
 ### Stylized Video
+* You can find our generated stylized videos here.
 
 ## Train
 ### Stylized Video Generation
