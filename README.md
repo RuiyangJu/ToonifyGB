@@ -24,3 +24,25 @@ If you find our paper useful in your research, please consider citing:
   conda env create --file environment.yml
   conda activate toonifygb
 ```
+
+## Datset
+### Original Video 
+
+### Stylized Video
+
+## Train
+### Stylized Video Generation
+
+### Stylized Avatar Synthesis
+
+## FaceViewer
+
+
+## Acknowledgments
+This code is partially based on [GaussianBlendshapes](https://github.com/zjumsj/GaussianBlendshapes) and [StyleGANEX](https://github.com/williamyang1991/StyleGANEX).
+We appreciate the authors for open-sourcing their code.
+
+
+
+
+
