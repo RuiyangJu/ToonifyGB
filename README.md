@@ -20,7 +20,7 @@ If you find our paper useful in your research, please consider citing:
 
 ## Environment
 ```
-  git clone --recursive https://github.com/zjumsj/GaussianBlendshapes.git
+  git clone --recursive https://github.com/RuiyangJu/ToonifyGB.git
   conda env create --file environment.yml
   conda activate toonifygb
 ```
