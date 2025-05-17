@@ -77,7 +77,7 @@ For Windows users, a pre-built binary is available for download [here](https://1
 * You can use our propocessed dataset and pre-trained models to run it.
 ```
   cd FaceViewer
-  FaceViewer_FLAME.exe --dataset=DATA_PATH/params --model=MODEL_PATH
+  FaceViewer_FLAME.exe --dataset DATASET_PATH/params --model MODEL_PATH
 ```
 * If you wanna **run your own dataset and model**, you need to run script to transform dataset format first.
 ```
