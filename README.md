@@ -48,7 +48,7 @@ If you find our paper useful in your research, please consider citing:
 
 ### Data Process
 * We follow INSTA to process data.
-If you wanna process your own dataset, please follow the instructions in their [repository](https://github.com/Zielon/INSTA).
+If you wanna **process your own dataset**, please follow the instructions in their [repository](https://github.com/Zielon/INSTA).
 You can use [Metrical Photometric Tracker](https://github.com/Zielon/metrical-tracker) to track and run `generate.sh` provided by INSTA to mask the head.
 * Copy files from outputs of the tracker and INSTA's script and organize them in the following form:
   
@@ -79,7 +79,7 @@ For Windows users, a pre-built binary is available for download [here](https://1
   cd FaceViewer
   FaceViewer_FLAME.exe --dataset=DATA_PATH/params --model=MODEL_PATH
 ```
-* If you wanna run your own dataset and model, you need to run script to transform dataset format first.
+* If you wanna **run your own dataset and model**, you need to run script to transform dataset format first.
 ```
   python scripts/extract_traj.py -i DATA_PATH/checkpoint -o DATA_PATH/params
 ```
