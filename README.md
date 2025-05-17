@@ -10,7 +10,7 @@
 
 ## Method
 <p align="left">
-  <img src="img/pipeline.png" width="640" title="details">
+  <img src="img/pipeline.png" width="1024" title="details">
 </p>
 
 ## Citation
