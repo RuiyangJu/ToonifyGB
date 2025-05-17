@@ -76,7 +76,7 @@ You can use [Metrical Photometric Tracker](https://github.com/Zielon/metrical-tr
 * You can use our propocessed datasets and pre-trained models to run it.
 ```
   cd FaceViewer
-  FaceViewer_FLAME.exe --dataset=<u>DATA_PATH</u>//params --model=<u>MODEL_PATH</u>//justin_model
+  FaceViewer_FLAME.exe --dataset=DATA_PATH/params --model=MODEL_PATH
 ```
 
 ## Acknowledgments
