@@ -38,7 +38,7 @@ If you find our paper useful in your research, please consider citing:
 </p>
 
 ### Original Video 
-* Our original videos (real head) are from [INSTA](https://github.com/Zielon/INSTA). You can access the links to download them.
+* Our original videos (real head) are from [INSTA](https://github.com/Zielon/INSTA). You can access it to download them.
 
 ### Stylized Video
 * You can find our generated stylized videos [here](https://1drv.ms/f/c/56c255dd1bb9ae9e/EpfvYbd5LQtDjp0aZAvLD_gBz85KRB5LIPiVF9m0EGPIzA).
