@@ -4,13 +4,13 @@
 
 >Project (Coming Soon!)
 
-<p align="center">
+<p align="left">
   <img src="img/highlight.gif" width="640" title="details">
 </p>
 
 ## Method
-<p align="center">
-  <img src="img/pipeline.png" width="1024" title="details">
+<p align="left">
+  <img src="img/pipeline.png" width="640" title="details">
 </p>
 
 ## Citation
