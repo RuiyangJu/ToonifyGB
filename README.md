@@ -31,7 +31,7 @@ If you find our paper useful in your research, please consider citing:
   conda activate toonifygb
 ```
 
-## Datset
+## Dataset
 
 <p align="left">
   <img src="img/dataset.png" width="480" title="details">
