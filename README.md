@@ -62,6 +62,7 @@ You can use [Metrical Photometric Tracker](https://github.com/Zielon/metrical-tr
 * You can find some of our pre-trained models [here](https://1drv.ms/f/c/56c255dd1bb9ae9e/Eiji5bsXmmRIocx7saA8RYcBJANLmcWml6j7oTEdD41KPQ).
 
 ## FaceViewer
+* We use FaceViewer released by [GaussianBlendshapes](https://github.com/zjumsj/GaussianBlendshapes). For Windows users, a pre-built binary is available for download [here](https://1drv.ms/u/c/56c255dd1bb9ae9e/ERR1ZtnEdqNFi7POwlFDjFUBBm0ze-9tO0a_xmYoiPTlyA?e=TQBlaM).
 * If FaceViewer cannot start because VCOMP120.DLL is missing, you can download [vcredist](https://www.microsoft.com/en-us/download/details.aspx?id=40784) to solve this problem.
 
 ## Acknowledgments
