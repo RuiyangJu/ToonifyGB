@@ -4,7 +4,11 @@
 
 >Project (Coming Soon!)
 
-## Pipeline
+<p align="center">
+  <img src="img/highlight.gif" width="640" title="details">
+</p>
+
+## Method
 <p align="center">
   <img src="img/pipeline.png" width="1024" title="details">
 </p>
