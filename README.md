@@ -2,7 +2,7 @@
 
 >[ToonifyGB: StyleGAN-based Gaussian Blendshapes for 3D Stylized Head Avatars](https://arxiv.org/abs/2505.10072)
 
->Project (Coming Soon!)
+>[Project](https://ruiyangju.github.io/ToonifyGB)
 
 <p align="left">
   <img src="img/highlight.gif" width="640" title="details">
