@@ -1,5 +1,5 @@
 # ToonifyGB
->[arxiv](https://arxiv.org/abs/2505.10072)
+>[arXiv](https://arxiv.org/abs/2505.10072)
 >[Project](https://ruiyangju.github.io/ToonifyGB)
 
 <p align="left">
