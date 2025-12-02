@@ -32,7 +32,7 @@ If you find our paper useful in your research, please consider citing:
 ## Dataset
 
 <p align="left">
-  <img src="img/dataset.png" width="480" title="details">
+  <img src="img/data.png" width="480" title="details">
 </p>
 
 ### Original Video 
