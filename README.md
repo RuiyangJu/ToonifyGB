@@ -8,7 +8,7 @@
 
 ## Pipeline
 <p align="left">
-
+  <img src="img/pipeline.png" width="1024" title="details">
 </p>
 
 ## Citation
