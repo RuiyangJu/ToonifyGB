@@ -6,9 +6,9 @@
   <img src="img/highlight.gif" width="640" title="details">
 </p>
 
-## Pipeline
+## Framework
 <p align="left">
-  <img src="img/pipeline.png" width="1024" title="details">
+  <img src="img/framework.png" width="1024" title="details">
 </p>
 
 ## Citation
