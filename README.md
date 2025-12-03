@@ -38,10 +38,10 @@ If you find our paper useful in your research, please consider citing:
 ### Original Video 
 * Our original videos (real head) are from [INSTA](https://github.com/Zielon/INSTA). You can access it to download them.
 
-### Stylized Video
+### Generated Stylized Video
 * You can find our generated stylized videos [here](https://1drv.ms/f/c/56c255dd1bb9ae9e/EpfvYbd5LQtDjp0aZAvLD_gBz85KRB5LIPiVF9m0EGPIzA).
 
-### Stylized Avatar
+### Preprocess for Stylized Avatar
 * For stylized avatar synthesis, you can find some of our proprocessed datasets [here](https://1drv.ms/f/c/56c255dd1bb9ae9e/EtL-0jI9YhpOgsJ78yU1lZUB93gNVRQ5mx0edGymGLlIAg).
 
 ### Data Process
