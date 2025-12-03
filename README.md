@@ -59,9 +59,10 @@ You can use [Metrical Photometric Tracker](https://github.com/Zielon/metrical-tr
 
 ## Training
 ### Stylized Video Generation
-* You can generate stylized videos by following the official steps provided in [StyleGANEX](https://github.com/williamyang1991/StyleGANEX).
+* You can generate your own stylized videos by following the official steps provided in [StyleGANEX](https://github.com/williamyang1991/StyleGANEX).
 
 ### Stylized Avatar Synthesis
+* You can synthesize your own 3D head avatars by following the official steps provided in [GaussianBlendshapes](https://github.com/zjumsj/GaussianBlendshapes).
 * You can find some of our pre-trained models [here](https://1drv.ms/f/c/56c255dd1bb9ae9e/Eiji5bsXmmRIocx7saA8RYcBJANLmcWml6j7oTEdD41KPQ).
 
 ## FaceViewer
