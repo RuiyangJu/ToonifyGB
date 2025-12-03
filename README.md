@@ -59,6 +59,7 @@ You can use [Metrical Photometric Tracker](https://github.com/Zielon/metrical-tr
 
 ## Training
 ### Stylized Video Generation
+*
 
 ### Stylized Avatar Synthesis
 * You can find some of our pre-trained models [here](https://1drv.ms/f/c/56c255dd1bb9ae9e/Eiji5bsXmmRIocx7saA8RYcBJANLmcWml6j7oTEdD41KPQ).
