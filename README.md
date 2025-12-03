@@ -45,7 +45,7 @@ If you find our paper useful in your research, please consider citing:
 * For stylized avatar synthesis, you can find some of our proprocessed datasets [here](https://1drv.ms/f/c/56c255dd1bb9ae9e/EtL-0jI9YhpOgsJ78yU1lZUB93gNVRQ5mx0edGymGLlIAg).
 
 ### Data Process
-* We follow INSTA to process data.
+* We follow the official steps provided in [INSTA](https://github.com/Zielon/INSTA) to process data.
 If you wanna **process your own dataset**, please follow the instructions in their [repository](https://github.com/Zielon/INSTA).
 You can use [Metrical Photometric Tracker](https://github.com/Zielon/metrical-tracker) to track and run `generate.sh` provided by INSTA to mask the head.
 * Copy files from outputs of the tracker and INSTA's script and organize them in the following form:
