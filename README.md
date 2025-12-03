@@ -46,7 +46,7 @@ If you find our paper useful in your research, please consider citing:
 
 ### Data Process
 * We follow the official steps provided in [INSTA](https://github.com/Zielon/INSTA) to process data.
-If you wanna **process your own dataset**, please follow the instructions in their [repository](https://github.com/Zielon/INSTA).
+If you wanna **process your own dataset**, please follow their instructions.
 You can use [Metrical Photometric Tracker](https://github.com/Zielon/metrical-tracker) to track and run `generate.sh` provided by INSTA to mask the head.
 * Copy files from outputs of the tracker and INSTA's script and organize them in the following form:
   
