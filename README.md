@@ -41,7 +41,7 @@ If you find our paper useful in your research, please consider citing:
 ### Generated Stylized Video
 * You can find our generated stylized videos [here](https://1drv.ms/f/c/56c255dd1bb9ae9e/EpfvYbd5LQtDjp0aZAvLD_gBz85KRB5LIPiVF9m0EGPIzA).
 
-### Preprocess for Stylized Avatar
+### Preprocessed Data for Stylized Avatar
 * For stylized avatar synthesis, you can find some of our proprocessed datasets [here](https://1drv.ms/f/c/56c255dd1bb9ae9e/EtL-0jI9YhpOgsJ78yU1lZUB93gNVRQ5mx0edGymGLlIAg).
 
 ### Data Process
